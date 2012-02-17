@@ -11,6 +11,8 @@ URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.9-14.tar.gz
 Requires:         R-methods 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods
+BuildRequires:    blas-devel
+BuildRequires:    lapack-devel
 
 %description
 Kernel-based machine learning methods for classification, regression,
