@@ -47,3 +47,12 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Fri Feb 17 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.9_14-1
++ Revision: 775868
+- Import R-kernlab
+- Import R-kernlab
+- Import R-kernlab
+
