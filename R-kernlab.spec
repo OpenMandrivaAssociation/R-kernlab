@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.9.16
-Release:          2
+Version:          0.9.18
+Release:          1
 Summary:          Kernel-based Machine Learning Lab
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/kernlab_0.9-16.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/kernlab_0.9-18.tar.gz
 Requires:         R-methods 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods
 BuildRequires:    blas-devel
