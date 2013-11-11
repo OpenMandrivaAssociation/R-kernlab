@@ -1,5 +1,6 @@
 removed_sources:
   kernlab_0.9-14.tar.gz: 8e55b41a77e19720aafb9052b2667294f92199e1
   kernlab_0.9-16.tar.gz: 972afb1afaa5c26b8ef35cfa685bb31d0f645c8f
-sources:
   kernlab_0.9-18.tar.gz: 5bf7bba0d6ce3005f10ed5a0b44375f9e3a244af
+sources:
+  kernlab_0.9-19.tar.gz: af5afff5622a0bdd204e457edd01ca514bca4019
