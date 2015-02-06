@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.9.19
-Release:          2
+Release:          3
 Summary:          Kernel-based Machine Learning Lab
 Group:            Sciences/Mathematics
 License:          GPL-2
